@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Retrofit Final</string>
+    <string name="pref_file">Preferencias</string>
+    <string name="pref_login_status">LoginStatus</string>
+    <string name="pref_user_name">UserName</string>
+</resources>
